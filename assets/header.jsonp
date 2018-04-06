@@ -1,0 +1,44 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-43-6 午後3:4:8",
+  "loopSlideshow" : 0,
+  "filename" : "名称未設定.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "名称未設定.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "C29A2A79-6A10-4377-8DE3-E107FD981154",
+    "370F2BB5-014C-449B-8C38-074DA781E83D"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 2,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HiraKakuPro-W6",
+    "AvenirNext-Regular",
+    "Arial-Black",
+    "DINAlternate-Bold",
+    "Avenir-Medium",
+    "HiraKakuProN-W3",
+    "AvenirNext-Medium",
+    "ArialUnicodeMS",
+    "GillSans",
+    "Avenir-MediumOblique",
+    "Futura-Medium",
+    "Avenir-Black",
+    "DINCondensed-Bold",
+    "HiraKakuPro-W3",
+    "AvenirNext-Bold",
+    "Baskerville-SemiBold",
+    "AvenirNext-DemiBold"
+  ]
+} )
