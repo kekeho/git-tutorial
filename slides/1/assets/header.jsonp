@@ -1,17 +1,17 @@
 local_header( {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-43-6 午後3:4:8",
+  "timestamp" : "2018-47-6 午後4:4:1",
   "loopSlideshow" : 0,
-  "filename" : "名称未設定.key",
+  "filename" : "git-tutorial.key",
   "autoplayBuildDelay" : 2,
   "comment" : "",
-  "title" : "名称未設定.key",
+  "title" : "git-tutorial.key",
   "showMode" : 0,
   "creator" : "Apple Keynote 8.0",
   "slideList" : [
     "C29A2A79-6A10-4377-8DE3-E107FD981154",
-    "370F2BB5-014C-449B-8C38-074DA781E83D"
+    "B76A8670-2CC1-44BE-9227-0E325015E89F"
   ],
   "soundtrack" : {
     "mode" : 0,
@@ -26,9 +26,12 @@ local_header( {
     "HiraKakuPro-W6",
     "AvenirNext-Regular",
     "Arial-Black",
-    "DINAlternate-Bold",
+    "AvenirNext-DemiBold",
     "Avenir-Medium",
     "HiraKakuProN-W3",
+    "DINAlternate-Bold",
+    "GillSans-Bold",
+    "GillSans-Light",
     "AvenirNext-Medium",
     "ArialUnicodeMS",
     "GillSans",
@@ -37,8 +40,8 @@ local_header( {
     "Avenir-Black",
     "DINCondensed-Bold",
     "HiraKakuPro-W3",
-    "AvenirNext-Bold",
+    "Helvetica-Bold",
     "Baskerville-SemiBold",
-    "AvenirNext-DemiBold"
+    "AvenirNext-Bold"
   ]
 } )

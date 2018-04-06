@@ -1,62 +1,6 @@
 {
   "assets" : {
-    "6F4E86A086313479819B00B7755EBA86" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
-      },
-      "width" : 86,
-      "height" : 25
-    },
-    "FBB5DEA59905EE30EF2803B0A74DF992" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "640D5297D59088D46FE63A28D36F2264" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
-      },
-      "width" : 964,
-      "height" : 5
-    },
-    "7014399AAF74AEB36CC6480DD70E977A" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
-      },
-      "width" : 181,
-      "height" : 63
-    },
-    "DB8451458D98EFA7506DBEBC2B1323F0" : {
+    "8F73C1A854CA2FD3842F24AA7105D0AD" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -65,12 +9,68 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
       },
       "width" : 1024,
       "height" : 768
     },
-    "3566EFAC76A1AA8D77AA915934EA248D" : {
+    "4BD0A1B90A08442B60D8471FA70558C1" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+      },
+      "width" : 747,
+      "height" : 257
+    },
+    "E269AEFA7DD2A1844919264E0AF8A8C0" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+      },
+      "width" : 12,
+      "height" : 42
+    },
+    "52D2C2C7F6951D61BDE3CC0B6500445A" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+      },
+      "width" : 464,
+      "height" : 93
+    },
+    "FF56EE91B6B7BAC4E317D3FACC75291A" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "7006C771C4A94E4787E7830CAB6CBBAE" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -79,7 +79,7 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/370F2BB5-014C-449B-8C38-074DA781E83D.pdf"
+        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
       },
       "width" : 1024,
       "height" : 768
@@ -266,7 +266,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DB8451458D98EFA7506DBEBC2B1323F0"
+                    "texture" : "8F73C1A854CA2FD3842F24AA7105D0AD"
                   },
                   {
                     "animations" : [
@@ -347,7 +347,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3566EFAC76A1AA8D77AA915934EA248D"
+                    "texture" : "7006C771C4A94E4787E7830CAB6CBBAE"
                   }
                 ]
               }
@@ -364,25 +364,78 @@
       ],
       "automaticPlay" : false,
       "hyperlinks" : [
-
-      ],
-      "accessibility" : [
         {
-          "text" : "gitとは",
+          "url" : "http:\/\/kekeho.com\/git-tutorial",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 185.542,
-            "height" : 79
+            "y" : 710.49999928474426,
+            "x" : 732.99999991059303,
+            "width" : 10.001953125,
+            "height" : 41
           }
         },
         {
-          "text" : "git講座",
+          "url" : "http:\/\/kekeho.com\/git-tutorial",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 86.824218839406967,
+            "y" : 666.16002464294434,
+            "x" : 716.50265625000009,
+            "width" : 261.72000000000003,
+            "height" : 26
+          }
+        },
+        {
+          "url" : "https:\/\/github.com\/kekeho\/git-tutorial",
+          "targetRectangle" : {
+            "y" : 692.16002464294434,
+            "x" : 588.69140625,
+            "width" : 331.79624999999987,
+            "height" : 26
+          }
+        }
+      ],
+      "accessibility" : [
+        {
+          "text" : " git講座",
+          "targetRectangle" : {
+            "y" : 187,
+            "x" : 32,
+            "width" : 570.580078125,
+            "height" : 243.60000967979431
+          }
+        },
+        {
+          "text" : " ",
+          "targetRectangle" : {
+            "y" : 710.49999928474426,
+            "x" : 732.99999991059303,
+            "width" : 10.001953125,
+            "height" : 41
+          }
+        },
+        {
+          "text" : "2018 情報技術研究部",
+          "targetRectangle" : {
+            "y" : 626,
+            "x" : 752.58578125000008,
+            "width" : 225.63687499999992,
             "height" : 28
+          }
+        },
+        {
+          "text" : "http:\/\/kekeho.com\/git-tutorial",
+          "targetRectangle" : {
+            "y" : 666.16002464294434,
+            "x" : 716.50265625000009,
+            "width" : 261.72000000000003,
+            "height" : 26
+          }
+        },
+        {
+          "text" : "Source: https:\/\/github.com\/kekeho\/git-tutorial (MIT)",
+          "targetRectangle" : {
+            "y" : 692.16002464294434,
+            "x" : 517.15265624999995,
+            "width" : 461.07000000000005,
+            "height" : 26
           }
         }
       ],
@@ -617,7 +670,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                    "texture" : "FF56EE91B6B7BAC4E317D3FACC75291A"
                   }
                 ]
               }
@@ -695,10 +748,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 513.99997852893819,
-                    "pointY" : 79.701652527085969
+                    "pointX" : 401.5,
+                    "pointY" : 289.5
                   },
-                  "width" : 964,
+                  "width" : 747,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -725,7 +778,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 5,
+                  "height" : 257,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -752,8 +805,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                2,
-                                2.2222647462040186
+                                1.9999999999999964,
+                                1
                               ]
                             ]
                           },
@@ -761,8 +814,38 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                962,
-                                2.2016525268554688
+                                745.3515625,
+                                1
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "AddLine",
+                            "points" : [
+                              [
+                                745.3515625,
+                                256
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "AddLine",
+                            "points" : [
+                              [
+                                1.9999999999999964,
+                                256
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "CloseSubpath"
+                          },
+                          {
+                            "type" : "MoveToPoint",
+                            "points" : [
+                              [
+                                1.9999999999999964,
+                                1
                               ]
                             ]
                           }
@@ -789,10 +872,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 480.00002147106181,
-                        "pointY" : 1.2983474729140312
+                        "pointX" : 371.5,
+                        "pointY" : 127.5
                       },
-                      "width" : 964,
+                      "width" : 747,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -819,14 +902,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 5,
+                      "height" : 257,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "640D5297D59088D46FE63A28D36F2264"
+                    "texture" : "4BD0A1B90A08442B60D8471FA70558C1"
                   }
                 ]
               }
@@ -904,10 +987,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 75,
-                    "pointY" : 48.5
+                    "pointX" : 715.77734375,
+                    "pointY" : 668.5
                   },
-                  "width" : 86,
+                  "width" : 464,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -934,7 +1017,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 25,
+                  "height" : 93,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -951,14 +1034,14 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.68906250000000002,
-                      "textBaseline" : 0.86296874999999995,
+                      "textXHeight" : 0.11862231182795699,
+                      "textBaseline" : 0.93193574884886377,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
-                        0.51380175352096558,
-                        0.5290953516960144,
-                        0.52940398454666138,
+                        0.32404273748397827,
+                        0.32408297061920166,
+                        0.32401949167251587,
                         1
                       ],
                       "textureType" : 6
@@ -976,10 +1059,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 47,
-                        "pointY" : 17.5
+                        "pointX" : 264.22265625,
+                        "pointY" : 50.5
                       },
-                      "width" : 86,
+                      "width" : 464,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1006,14 +1089,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 25,
+                      "height" : 93,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6F4E86A086313479819B00B7755EBA86"
+                    "texture" : "52D2C2C7F6951D61BDE3CC0B6500445A"
                   }
                 ]
               }
@@ -1091,10 +1174,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 122.5,
-                    "pointY" : 152.5
+                    "pointX" : 729.49902334809303,
+                    "pointY" : 727.49999928474426
                   },
-                  "width" : 181,
+                  "width" : 12,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1121,7 +1204,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 63,
+                  "height" : 42,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1138,14 +1221,14 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.43085714285714288,
-                      "textBaseline" : 0.75828818669394837,
+                      "textXHeight" : 0.38881138392857145,
+                      "textBaseline" : 0.78385414963676814,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
-                        0.27008384466171265,
-                        0.74021297693252563,
-                        0.86154061555862427,
+                        0.32404273748397827,
+                        0.32408297061920166,
+                        0.32401949167251587,
                         1
                       ],
                       "textureType" : 6
@@ -1163,10 +1246,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 96.5,
-                        "pointY" : 45.5
+                        "pointX" : 14.500976651906967,
+                        "pointY" : 24.500000715255737
                       },
-                      "width" : 181,
+                      "width" : 12,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1193,75 +1276,17 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 63,
+                      "height" : 42,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "7014399AAF74AEB36CC6480DD70E977A"
+                    "texture" : "E269AEFA7DD2A1844919264E0AF8A8C0"
                   }
                 ]
               }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-
             ]
           }
         ]
