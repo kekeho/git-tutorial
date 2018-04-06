@@ -1,18 +1,135 @@
+<!DOCTYPE html>
 <html>
 
-<script type="text/javascript">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-function detectBrowser()
-{
-    var slashIndex = window.location.href.lastIndexOf("/");
-    var cropped = window.location.href.slice(0,slashIndex+1);
+  <title>git-tutorial</title>
 
-    window.location.replace(cropped + "assets/player/KeynoteDHTMLPlayer.html");
-}
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/style.min.css">
+  <style type="text/css">
+    body {
+      padding-top: 80px;
+    }
 
-</script>
+    @media ( min-width: 768px) {
+      #banner {
+        min-height: 300px;
+        border-bottom: none;
+      }
+      .bs-component {
+        position: relative;
+      }
+      .bs-component .modal {
+        position: relative;
+        top: auto;
+        right: auto;
+        left: auto;
+        bottom: auto;
+        z-index: 1;
+        display: block;
+      }
+      .bs-component .modal-dialog {
+        width: 90%;
+      }
+      .bs-component .popover {
+        position: relative;
+        display: inline-block;
+        width: 220px;
+        margin: 20px;
+      }
+      .nav-tabs {
+        margin-bottom: 15px;
+      }
+      .progress {
+        margin-bottom: 10px;
+      }
+    }
+  </style>
 
-<body bgcolor="black" onload="detectBrowser()">
+  <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+
+<body>
+
+  <header>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="/" class="navbar-brand">git-tutorial</a>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="https://github.com/kekeho/git-tutorial">Source(GitHub)</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="jumbotron background-active">
+    <div class="container">
+      <h1>Git tutorial for NNCT jo-ken</h1>
+      長野高専情報技術研究部向けに行った、git講座のアーカイブ
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="bs-docs-section">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="page-header">
+            <h1 id="tables">Tutorials</h1>
+          </div>
+          <div>
+            数回に分けて講座を行いました。
+            <br> スライドは以下から御覧ください。
+          </div>
+
+          <div class="bs-component">
+            <table class="table table-striped table-hover ">
+              <thead>
+                <tr>
+                  <th>No.</th>
+                  <th>タイトル</th>
+                  <th>主な内容</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td><a href="1/index.html">イントロダクション</a></td>
+                  <td>gitの紹介・環境構築</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <!-- /example -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+  <script type="text/javascript">
+    $('.bs-component [data-toggle="popover"]').popover();
+    $('.bs-component [data-toggle="tooltip"]').tooltip();
+  </script>
+  <footer>
+    <p>2018 Hiroki Takemura | MIT LICENCE | This page powered by <a href="http://honokak.osaka/">Honoka</a></p>
+  </footer>
 </body>
 
 </html>
