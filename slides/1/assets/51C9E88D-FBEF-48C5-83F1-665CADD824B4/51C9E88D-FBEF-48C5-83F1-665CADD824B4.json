@@ -1,90 +1,6 @@
 {
   "assets" : {
-    "FF56EE91B6B7BAC4E317D3FACC75291A" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "CA2201D9A29E53A164EBE8A70F4641B3" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "88D7FFE4B963D59410A76E152906A463" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 358,
-      "height" : 38
-    },
-    "36818BB603E0EC31C2E7A6D11BEE888F" : {
-      "type" : "texture",
-      "index" : 7,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "EA96A70626A20070F8224BBD31A988D0" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 9,
-      "height" : 16
-    },
-    "BF24DCF3775184281413262FB5BCB894" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
-      },
-      "width" : 493,
-      "height" : 142
-    },
-    "17D85256D7B0E89EC94B049AEC1A531C" : {
+    "D1ACAF8484DDF24803511E930010D4BC" : {
       "type" : "texture",
       "index" : 1,
       "assetRequest" : {
@@ -93,12 +9,54 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+        "native" : "assets\/51C9E88D-FBEF-48C5-83F1-665CADD824B4.pdf"
       },
-      "width" : 747,
-      "height" : 257
+      "width" : 202,
+      "height" : 53
     },
-    "E269AEFA7DD2A1844919264E0AF8A8C0" : {
+    "EABCBFF2A1FB04A2D7BE68D6C95BE314" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/51C9E88D-FBEF-48C5-83F1-665CADD824B4.pdf"
+      },
+      "width" : 944,
+      "height" : 432
+    },
+    "A356CE0843A4255CA08365B90B03E7EA" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/51C9E88D-FBEF-48C5-83F1-665CADD824B4.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "F8944F7664E95FE9157032D43C6ED681" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/51C9E88D-FBEF-48C5-83F1-665CADD824B4.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "B7155174068AD4CE79047F0D75DF330E" : {
       "type" : "texture",
       "index" : 3,
       "assetRequest" : {
@@ -107,10 +65,10 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/C29A2A79-6A10-4377-8DE3-E107FD981154.pdf"
+        "native" : "assets\/51C9E88D-FBEF-48C5-83F1-665CADD824B4.pdf"
       },
-      "width" : 12,
-      "height" : 42
+      "width" : 1024,
+      "height" : 768
     }
   },
   "events" : [
@@ -294,7 +252,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "CA2201D9A29E53A164EBE8A70F4641B3"
+                    "texture" : "B7155174068AD4CE79047F0D75DF330E"
                   },
                   {
                     "animations" : [
@@ -375,7 +333,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "36818BB603E0EC31C2E7A6D11BEE888F"
+                    "texture" : "F8944F7664E95FE9157032D43C6ED681"
                   }
                 ]
               }
@@ -392,105 +350,52 @@
       ],
       "automaticPlay" : false,
       "hyperlinks" : [
-        {
-          "url" : "http:\/\/kekeho.com\/git-tutorial",
-          "targetRectangle" : {
-            "y" : 661.38876340866102,
-            "x" : 700.1451562499999,
-            "width" : 278.0775000000001,
-            "height" : 28
-          }
-        },
-        {
-          "url" : "https:\/\/github.com\/kekeho\/git-tutorial",
-          "targetRectangle" : {
-            "y" : 689.38876340866102,
-            "x" : 564.34570312499989,
-            "width" : 352.53351562500018,
-            "height" : 28
-          }
-        },
-        {
-          "url" : "http:\/\/kekeho.com\/git-tutorial",
-          "targetRectangle" : {
-            "y" : 710.49999952316284,
-            "x" : 732.99999991059303,
-            "width" : 10.001953125,
-            "height" : 41
-          }
-        }
+
       ],
       "accessibility" : [
         {
-          "text" : "2018 情報技術研究部",
+          "text" : "Ubuntu\/Debian\/Mintなど: sudo apt install git",
           "targetRectangle" : {
-            "y" : 577.27600097656261,
-            "x" : 738.48347656250007,
-            "width" : 239.73917968749993,
-            "height" : 29.136355032920846
+            "y" : 245,
+            "x" : 73.000001192092896,
+            "width" : 893.0048828125,
+            "height" : 62.400002479553223
           }
         },
         {
-          "text" : "竹村 太希",
+          "text" : "Cent OSとか?: yum install git",
           "targetRectangle" : {
-            "y" : 619.33238219261182,
-            "x" : 867.6834765625,
-            "width" : 110.5391796875,
-            "height" : 29.136355032920846
+            "y" : 327.40004301071167,
+            "x" : 73.000001192092896,
+            "width" : 716.548828125,
+            "height" : 109.5320337745361
           }
         },
         {
-          "text" : "http:\/\/kekeho.com\/git-tutorial",
+          "text" : "homebrew導入者: brew install git",
           "targetRectangle" : {
-            "y" : 661.38876340866102,
-            "x" : 700.1451562499999,
-            "width" : 278.0775000000001,
-            "height" : 28
+            "y" : 459.93212339607999,
+            "x" : 73.000001192092896,
+            "width" : 813.759765625,
+            "height" : 109.5320337745361
           }
         },
         {
-          "text" : "Source: https:\/\/github.com\/kekeho\/git-tutorial (MIT)",
+          "text" : "そもそも大体の環境にはもとから入ってるはず",
           "targetRectangle" : {
-            "y" : 689.38876340866102,
-            "x" : 488.33578124999991,
-            "width" : 489.88687500000009,
-            "height" : 28
+            "y" : 592.4642037814483,
+            "x" : 72.999999046325684,
+            "width" : 901.71000000000004,
+            "height" : 98.199949789045149
           }
         },
         {
-          "text" : "イントロダクション編",
+          "text" : "Linux",
           "targetRectangle" : {
-            "y" : 448.00001796276598,
-            "x" : 410.61529853937492,
-            "width" : 357.47999999999996,
-            "height" : 35.999963521957397
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 733.99999988079071,
-            "x" : 506.99999964237213,
-            "width" : 9,
-            "height" : 20
-          }
-        },
-        {
-          "text" : " ",
-          "targetRectangle" : {
-            "y" : 710.49999952316284,
-            "x" : 732.99999991059303,
-            "width" : 10.001953125,
-            "height" : 41
-          }
-        },
-        {
-          "text" : " git講座",
-          "targetRectangle" : {
-            "y" : 187,
-            "x" : 32,
-            "width" : 577.248046875,
-            "height" : 243.60000967979431
+            "y" : 75,
+            "x" : 409.958984375,
+            "width" : 204.08203125,
+            "height" : 82
           }
         }
       ],
@@ -725,7 +630,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FF56EE91B6B7BAC4E317D3FACC75291A"
+                    "texture" : "A356CE0843A4255CA08365B90B03E7EA"
                   }
                 ]
               }
@@ -803,10 +708,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 401.5,
-                    "pointY" : 289.5
+                    "pointX" : 129,
+                    "pointY" : 46.5
                   },
-                  "width" : 747,
+                  "width" : 202,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -833,7 +738,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 257,
+                  "height" : 53,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -850,247 +755,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0,
-                      "shapePath" : {
-                        "lineWidth" : 1,
-                        "flatness" : 0.59999999999999998,
-                        "lineCapStyle" : 0,
-                        "elements" : [
-                          {
-                            "type" : "MoveToPoint",
-                            "points" : [
-                              [
-                                1.9999999999999964,
-                                1
-                              ]
-                            ]
-                          },
-                          {
-                            "type" : "AddLine",
-                            "points" : [
-                              [
-                                745.3515625,
-                                1
-                              ]
-                            ]
-                          },
-                          {
-                            "type" : "AddLine",
-                            "points" : [
-                              [
-                                745.3515625,
-                                256
-                              ]
-                            ]
-                          },
-                          {
-                            "type" : "AddLine",
-                            "points" : [
-                              [
-                                1.9999999999999964,
-                                256
-                              ]
-                            ]
-                          },
-                          {
-                            "type" : "CloseSubpath"
-                          },
-                          {
-                            "type" : "MoveToPoint",
-                            "points" : [
-                              [
-                                1.9999999999999964,
-                                1
-                              ]
-                            ]
-                          }
-                        ],
-                        "windingRule" : 0,
-                        "lineJoinStyle" : 0,
-                        "miterLimit" : 10
-                      },
-                      "isBackgroundTexture" : true,
-                      "textBaseline" : 0,
-                      "isVerticalText" : false,
-                      "textureType" : 5
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 371.5,
-                        "pointY" : 127.5
-                      },
-                      "width" : 747,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 257,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "17D85256D7B0E89EC94B049AEC1A531C"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 730.27734375,
-                    "pointY" : 644.27600097656261
-                  },
-                  "width" : 493,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 142,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.082544839348591553,
-                      "textBaseline" : 0.94757491837085206,
+                      "textXHeight" : 0.61622936320754718,
+                      "textBaseline" : 0.95931603773584906,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1114,10 +780,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 249.72265625,
-                        "pointY" : 74.723999023437386
+                        "pointX" : 487,
+                        "pointY" : 95.5
                       },
-                      "width" : 493,
+                      "width" : 202,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1144,14 +810,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 142,
+                      "height" : 53,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "BF24DCF3775184281413262FB5BCB894"
+                    "texture" : "D1ACAF8484DDF24803511E930010D4BC"
                   }
                 ]
               }
@@ -1229,10 +895,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 729.49902334809303,
-                    "pointY" : 727.49999952316284
+                    "pointX" : 500,
+                    "pointY" : 431
                   },
-                  "width" : 12,
+                  "width" : 944,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1259,7 +925,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 42,
+                  "height" : 432,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1276,8 +942,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.38881138392857145,
-                      "textBaseline" : 0.78385415531340097,
+                      "textXHeight" : 0.042001229745370371,
+                      "textBaseline" : 0.98797256887364371,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1301,10 +967,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.500976651906967,
-                        "pointY" : 24.500000476837158
+                        "pointX" : 476,
+                        "pointY" : 251
                       },
-                      "width" : 12,
+                      "width" : 944,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1331,388 +997,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 42,
+                      "height" : 432,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E269AEFA7DD2A1844919264E0AF8A8C0"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 391.92012764093744,
-                    "pointY" : 463.00001796276598
-                  },
-                  "width" : 358,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 38,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.52578947368421047,
-                      "textBaseline" : 0.85999928236824086,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.32404273748397827,
-                        0.32408297061920166,
-                        0.32401949167251587,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 376.07987235906256,
-                        "pointY" : 21.99998203723402
-                      },
-                      "width" : 358,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 38,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "88D7FFE4B963D59410A76E152906A463"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 506.99999964237213,
-                    "pointY" : 737.99999988079071
-                  },
-                  "width" : 9,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 16,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.51031494140625,
-                      "textBaseline" : 0.9194335862994194,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.32387250661849976,
-                        0.32391840219497681,
-                        0.32384234666824341,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 7.0000003576278687,
-                        "pointY" : 13.00000011920929
-                      },
-                      "width" : 9,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 16,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "EA96A70626A20070F8224BBD31A988D0"
+                    "texture" : "EABCBFF2A1FB04A2D7BE68D6C95BE314"
                   }
                 ]
               }

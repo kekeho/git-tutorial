@@ -1,18 +1,32 @@
 {
   "assets" : {
-    "075759D977C9A624ADD2C1A31B368322" : {
+    "7863FFABB9EA72E22A176A26BB5F6AD4" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
       },
-      "width" : 718,
-      "height" : 483
+      "width" : 247,
+      "height" : 185
+    },
+    "A356CE0843A4255CA08365B90B03E7EA" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "FF56EE91B6B7BAC4E317D3FACC75291A" : {
       "type" : "texture",
@@ -23,26 +37,12 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
       },
       "width" : 1024,
       "height" : 768
     },
-    "CA2201D9A29E53A164EBE8A70F4641B3" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "E30EB4A926092C5C822D5FDEB3011119" : {
+    "151D38F7F25EC1213918A1B1D80CCDD5" : {
       "type" : "texture",
       "index" : 1,
       "assetRequest" : {
@@ -51,26 +51,12 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
       },
-      "width" : 276,
-      "height" : 69
+      "width" : 891,
+      "height" : 176
     },
-    "FC90C61D739B4C01EE8A52C9DCB8DC48" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
-      },
-      "width" : 12,
-      "height" : 16
-    },
-    "A1C25E96FDF72908C8DF08894AF3C0DB" : {
+    "7DB4EDEC4D7CFD01931675F3EEBD610E" : {
       "type" : "texture",
       "index" : 3,
       "assetRequest" : {
@@ -79,12 +65,26 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
       },
-      "width" : 220,
-      "height" : 263
+      "width" : 135,
+      "height" : 136
     },
-    "337A449E66FBF298DF3A5BB5EEA1398C" : {
+    "8BDD8BF299EE7DBF297B9743858F3125" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
+      },
+      "width" : 322,
+      "height" : 175
+    },
+    "E551DE491C435DAB3DC92E1D277722E7" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -93,1264 +93,55 @@
         "slide" : "none"
       },
       "url" : {
-        "native" : "assets\/B76A8670-2CC1-44BE-9227-0E325015E89F.pdf"
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
+      },
+      "width" : 136,
+      "height" : 136
+    },
+    "CA5ABE618164ECF52DE6A1A39178EAD8" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
       },
       "width" : 1024,
       "height" : 768
+    },
+    "173CE8CA528C7ADD73F29264EB1CD5CC" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
+      },
+      "width" : 853,
+      "height" : 347
+    },
+    "AF8478F99C54CAD15EC9AE5D4A27DF50" : {
+      "type" : "texture",
+      "index" : 7,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F235304E-E97B-43F9-ACFA-188B426FABE8.pdf"
+      },
+      "width" : 12,
+      "height" : 16
     }
   },
   "events" : [
-    {
-      "effects" : [
-        {
-          "beginTime" : 0,
-          "baseLayer" : {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 858,
-                "pointY" : 602.5
-              },
-              "width" : 220,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 263,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "objectID" : "B4962E95-5CAF-4305-B111-5A144CB026B6",
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "layers" : [
-
-                ],
-                "texturedRectangle" : {
-                  "isBackgroundTexture" : false,
-                  "singleTextureOpacity" : 1,
-                  "textureType" : 5,
-                  "textBaseline" : 0,
-                  "textXHeight" : 0,
-                  "isVerticalText" : false
-                },
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 110,
-                    "pointY" : 131.5
-                  },
-                  "width" : 220,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 0,
-                  "height" : 263,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "texture" : "A1C25E96FDF72908C8DF08894AF3C0DB"
-              }
-            ]
-          },
-          "effects" : [
-
-          ],
-          "duration" : 0.5,
-          "type" : "smartBuild",
-          "name" : "apple:gallery-appear",
-          "objectID" : "B4962E95-5CAF-4305-B111-5A144CB026B6"
-        }
-      ],
-      "automaticPlay" : false,
-      "hyperlinks" : [
-        {
-          "url" : "http:\/\/geeklab-nagano.com\/",
-          "targetRectangle" : {
-            "y" : 351.59148566722871,
-            "x" : 211.19999918184783,
-            "width" : 118.48281250000002,
-            "height" : 65.552743506431568
-          }
-        },
-        {
-          "url" : "https:\/\/instagram.com\/hiroki_takemura",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 184.98593668184785,
-            "width" : 216.54062499999989,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/instagram.com\/kekeho.photo",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 426.95390543184772,
-            "width" : 187.46171874999993,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/facebook.com\/hirokitakem",
-          "targetRectangle" : {
-            "y" : 575.98297224044802,
-            "x" : 185.53515543184784,
-            "width" : 192.47890624999991,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/github.com\/kekeho",
-          "targetRectangle" : {
-            "y" : 640.38297269344332,
-            "x" : 152.64140543184783,
-            "width" : 110.17031250000002,
-            "height" : 64.4000004529953
-          }
-        }
-      ],
-      "accessibility" : [
-        {
-          "text" : "自己紹介",
-          "targetRectangle" : {
-            "y" : 80,
-            "x" : 368,
-            "width" : 288,
-            "height" : 71.999927043914795
-          }
-        },
-        {
-          "text" : "長野高専3J",
-          "targetRectangle" : {
-            "y" : 222,
-            "x" : 59.199999181847829,
-            "width" : 143.12343749999999,
-            "height" : 34.395711803436257
-          }
-        },
-        {
-          "text" : "情報技術研究部・写真同好会・軟式野球(引退)など",
-          "targetRectangle" : {
-            "y" : 271.59574260711668,
-            "x" : 59.199999181847829,
-            "width" : 689.04687499999977,
-            "height" : 64.795712256431614
-          }
-        },
-        {
-          "text" : "企業書生でGEEKLABさんにお世話になっている",
-          "targetRectangle" : {
-            "y" : 351.59148566722871,
-            "x" : 59.199999181847829,
-            "width" : 634.06681249999974,
-            "height" : 65.552743506431568
-          }
-        },
-        {
-          "text" : "Pythonista(笑)",
-          "targetRectangle" : {
-            "y" : 431.58722872734074,
-            "x" : 59.199999181847829,
-            "width" : 172.90000000000001,
-            "height" : 64.795712256431557
-          }
-        },
-        {
-          "text" : "Instagram: @hiroki_takemura \/ @kekeho.photo",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 59.199999181847829,
-            "width" : 555.21562499999982,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "text" : "Facebook: Hiroki Takemura",
-          "targetRectangle" : {
-            "y" : 575.98297224044802,
-            "x" : 59.199999181847829,
-            "width" : 318.81406249999992,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "text" : "Github: @kekeho",
-          "targetRectangle" : {
-            "y" : 640.38297269344332,
-            "x" : 59.199999181847829,
-            "width" : 203.61171875000002,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 733.99999988079071,
-            "x" : 506.99999964237213,
-            "width" : 9,
-            "height" : 20
-          }
-        }
-      ],
-      "baseLayer" : {
-        "animations" : [
-
-        ],
-        "initialState" : {
-          "affineTransform" : [
-            1,
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          "masksToBounds" : false,
-          "rotation" : 0,
-          "scale" : 1,
-          "position" : {
-            "pointX" : 512,
-            "pointY" : 384
-          },
-          "width" : 1024,
-          "sublayerTransform" : [
-            1,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            1
-          ],
-          "contentsRect" : {
-            "y" : 0,
-            "x" : 0,
-            "width" : 1,
-            "height" : 1
-          },
-          "opacity" : 1,
-          "edgeAntialiasingMask" : 251658240,
-          "height" : 768,
-          "hidden" : false,
-          "anchorPoint" : {
-            "pointX" : 0.5,
-            "pointY" : 0.5
-          }
-        },
-        "layers" : [
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 512,
-                    "pointY" : 384
-                  },
-                  "width" : 1024,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 768,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "isBackgroundTexture" : true,
-                      "singleTextureOpacity" : 1,
-                      "textureType" : 1,
-                      "textBaseline" : 0,
-                      "textXHeight" : 0,
-                      "isVerticalText" : false
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 512,
-                        "pointY" : 384
-                      },
-                      "width" : 1024,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 768,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "FF56EE91B6B7BAC4E317D3FACC75291A"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 166,
-                    "pointY" : 54.5
-                  },
-                  "width" : 276,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 69,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.5645217391304348,
-                      "textBaseline" : 0.90376680484716443,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.32404273748397827,
-                        0.32408297061920166,
-                        0.32401949167251587,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 489,
-                        "pointY" : 95.5
-                      },
-                      "width" : 276,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 69,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "E30EB4A926092C5C822D5FDEB3011119"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 387,
-                    "pointY" : 456.5
-                  },
-                  "width" : 718,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 483,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.034050517598343689,
-                      "textBaseline" : 0.98455325703196406,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.32404273748397827,
-                        0.32408297061920166,
-                        0.32401949167251587,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 363,
-                        "pointY" : 248.5
-                      },
-                      "width" : 718,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 483,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "075759D977C9A624ADD2C1A31B368322"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 858,
-                    "pointY" : 602.5
-                  },
-                  "width" : 220,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 263,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "objectID" : "B4962E95-5CAF-4305-B111-5A144CB026B6",
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "isBackgroundTexture" : false,
-                      "singleTextureOpacity" : 1,
-                      "textureType" : 5,
-                      "textBaseline" : 0,
-                      "textXHeight" : 0,
-                      "isVerticalText" : false
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 110,
-                        "pointY" : 131.5
-                      },
-                      "width" : 220,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 263,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "A1C25E96FDF72908C8DF08894AF3C0DB"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "animations" : [
-
-            ],
-            "initialState" : {
-              "affineTransform" : [
-                1,
-                0,
-                0,
-                1,
-                0,
-                0
-              ],
-              "masksToBounds" : false,
-              "rotation" : 0,
-              "scale" : 1,
-              "position" : {
-                "pointX" : 512,
-                "pointY" : 384
-              },
-              "width" : 1024,
-              "sublayerTransform" : [
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0,
-                1
-              ],
-              "contentsRect" : {
-                "y" : 0,
-                "x" : 0,
-                "width" : 1,
-                "height" : 1
-              },
-              "opacity" : 1,
-              "edgeAntialiasingMask" : 251658240,
-              "height" : 768,
-              "hidden" : false,
-              "anchorPoint" : {
-                "pointX" : 0.5,
-                "pointY" : 0.5
-              }
-            },
-            "layers" : [
-              {
-                "animations" : [
-
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 508.49999964237213,
-                    "pointY" : 737.99999988079071
-                  },
-                  "width" : 12,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 16,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.51031494140625,
-                      "textBaseline" : 0.9194335862994194,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.32387250661849976,
-                        0.32391840219497681,
-                        0.32384234666824341,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 8.5000003576278687,
-                        "pointY" : 13.00000011920929
-                      },
-                      "width" : 12,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 16,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.5,
-                        "pointY" : 0.5
-                      }
-                    },
-                    "texture" : "FC90C61D739B4C01EE8A52C9DCB8DC48"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
     {
       "effects" : [
         {
@@ -1531,7 +322,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "337A449E66FBF298DF3A5BB5EEA1398C"
+                    "texture" : "A356CE0843A4255CA08365B90B03E7EA"
                   },
                   {
                     "animations" : [
@@ -1612,7 +403,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "CA2201D9A29E53A164EBE8A70F4641B3"
+                    "texture" : "CA5ABE618164ECF52DE6A1A39178EAD8"
                   }
                 ]
               }
@@ -1629,123 +420,16 @@
       ],
       "automaticPlay" : false,
       "hyperlinks" : [
-        {
-          "url" : "http:\/\/geeklab-nagano.com\/",
-          "targetRectangle" : {
-            "y" : 351.59148566722871,
-            "x" : 211.19999918184783,
-            "width" : 118.48281250000002,
-            "height" : 65.552743506431568
-          }
-        },
-        {
-          "url" : "https:\/\/instagram.com\/hiroki_takemura",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 184.98593668184785,
-            "width" : 216.54062499999989,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/instagram.com\/kekeho.photo",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 426.95390543184772,
-            "width" : 187.46171874999993,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/facebook.com\/hirokitakem",
-          "targetRectangle" : {
-            "y" : 575.98297224044802,
-            "x" : 185.53515543184784,
-            "width" : 192.47890624999991,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "url" : "https:\/\/github.com\/kekeho",
-          "targetRectangle" : {
-            "y" : 640.38297269344332,
-            "x" : 152.64140543184783,
-            "width" : 110.17031250000002,
-            "height" : 64.4000004529953
-          }
-        }
+
       ],
       "accessibility" : [
         {
-          "text" : "自己紹介",
+          "text" : "linuxs.png",
           "targetRectangle" : {
-            "y" : 80,
-            "x" : 368,
-            "width" : 288,
-            "height" : 71.999927043914795
-          }
-        },
-        {
-          "text" : "長野高専3J",
-          "targetRectangle" : {
-            "y" : 222,
-            "x" : 59.199999181847829,
-            "width" : 143.12343749999999,
-            "height" : 34.395711803436257
-          }
-        },
-        {
-          "text" : "情報技術研究部・写真同好会・軟式野球(引退)など",
-          "targetRectangle" : {
-            "y" : 271.59574260711668,
-            "x" : 59.199999181847829,
-            "width" : 689.04687499999977,
-            "height" : 64.795712256431614
-          }
-        },
-        {
-          "text" : "企業書生でGEEKLABさんにお世話になっている",
-          "targetRectangle" : {
-            "y" : 351.59148566722871,
-            "x" : 59.199999181847829,
-            "width" : 634.06681249999974,
-            "height" : 65.552743506431568
-          }
-        },
-        {
-          "text" : "Pythonista(笑)",
-          "targetRectangle" : {
-            "y" : 431.58722872734074,
-            "x" : 59.199999181847829,
-            "width" : 172.90000000000001,
-            "height" : 64.795712256431557
-          }
-        },
-        {
-          "text" : "Instagram: @hiroki_takemura \/ @kekeho.photo",
-          "targetRectangle" : {
-            "y" : 511.58297178745272,
-            "x" : 59.199999181847829,
-            "width" : 555.21562499999982,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "text" : "Facebook: Hiroki Takemura",
-          "targetRectangle" : {
-            "y" : 575.98297224044802,
-            "x" : 59.199999181847829,
-            "width" : 318.81406249999992,
-            "height" : 64.4000004529953
-          }
-        },
-        {
-          "text" : "Github: @kekeho",
-          "targetRectangle" : {
-            "y" : 640.38297269344332,
-            "x" : 59.199999181847829,
-            "width" : 203.61171875000002,
-            "height" : 64.4000004529953
+            "y" : 549.32617337759916,
+            "x" : 597.53120665742006,
+            "width" : 243.82600402832031,
+            "height" : 182.51918029785156
           }
         },
         {
@@ -1755,6 +439,69 @@
             "x" : 506.99999964237213,
             "width" : 9,
             "height" : 20
+          }
+        },
+        {
+          "text" : "よくわからないけど、どんな人達が使ってるの?",
+          "targetRectangle" : {
+            "y" : 50.629680998613033,
+            "x" : 60.833600048278925,
+            "width" : 902.33280000000013,
+            "height" : 184
+          }
+        },
+        {
+          "text" : "electron.png",
+          "targetRectangle" : {
+            "y" : 554.1929947381941,
+            "x" : 352.01339714900791,
+            "width" : 319.97320556640625,
+            "height" : 172.78553771972656
+          }
+        },
+        {
+          "text" : "python-logo.jpg",
+          "targetRectangle" : {
+            "y" : 476.50607505270966,
+            "x" : 850.48802835165793,
+            "width" : 131.53521678262939,
+            "height" : 132.51783217868217
+          }
+        },
+        {
+          "text" : "ts.png",
+          "targetRectangle" : {
+            "y" : 630.99741866155387,
+            "x" : 867.91314235011328,
+            "width" : 132.51783752441406,
+            "height" : 132.51783752441406
+          }
+        },
+        {
+          "text" : "ほとんどのオープンソースプロジェクト",
+          "targetRectangle" : {
+            "y" : 318.21636615811371,
+            "x" : 73.000001192092896,
+            "width" : 810.9799999999999,
+            "height" : 55.19994626045002
+          }
+        },
+        {
+          "text" : "ほとんどのIT企業",
+          "targetRectangle" : {
+            "y" : 396.41635902939595,
+            "x" : 73.000001192092896,
+            "width" : 356.5575,
+            "height" : 108.40000247955322
+          }
+        },
+        {
+          "text" : "個人開発の場でも",
+          "targetRectangle" : {
+            "y" : 527.81640811978139,
+            "x" : 73.000001192092896,
+            "width" : 368,
+            "height" : 101.19994626045002
           }
         }
       ],
@@ -2067,10 +814,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 166,
-                    "pointY" : 54.5
+                    "pointX" : 473.50000004827893,
+                    "pointY" : 134.62968099861303
                   },
-                  "width" : 276,
+                  "width" : 891,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2097,7 +844,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 69,
+                  "height" : 176,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -2114,8 +861,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.5645217391304348,
-                      "textBaseline" : 0.90376680484716443,
+                      "textXHeight" : 0.21467863636363635,
+                      "textBaseline" : 0.96015976419666493,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2139,10 +886,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 489,
-                        "pointY" : 95.5
+                        "pointX" : 486.49999995172107,
+                        "pointY" : 90.370319001386974
                       },
-                      "width" : 276,
+                      "width" : 891,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2169,14 +916,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 69,
+                      "height" : 176,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E30EB4A926092C5C822D5FDEB3011119"
+                    "texture" : "151D38F7F25EC1213918A1B1D80CCDD5"
                   }
                 ]
               }
@@ -2254,10 +1001,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 387,
-                    "pointY" : 456.5
+                    "pointX" : 454.5,
+                    "pointY" : 424.71636615811371
                   },
-                  "width" : 718,
+                  "width" : 853,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2284,7 +1031,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 483,
+                  "height" : 347,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -2301,8 +1048,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.034050517598343689,
-                      "textBaseline" : 0.98455325703196406,
+                      "textXHeight" : 0.071717579250720462,
+                      "textBaseline" : 1.0375112420491748,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2326,10 +1073,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 363,
-                        "pointY" : 248.5
+                        "pointX" : 430.5,
+                        "pointY" : 239.28363384188629
                       },
-                      "width" : 718,
+                      "width" : 853,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2356,14 +1103,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 483,
+                      "height" : 347,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "075759D977C9A624ADD2C1A31B368322"
+                    "texture" : "173CE8CA528C7ADD73F29264EB1CD5CC"
                   }
                 ]
               }
@@ -2441,10 +1188,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 858,
-                    "pointY" : 602.5
+                    "pointX" : 917.98802835165793,
+                    "pointY" : 544.50607505270966
                   },
-                  "width" : 220,
+                  "width" : 135,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2471,7 +1218,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 263,
+                  "height" : 136,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -2487,7 +1234,7 @@
 
                     ],
                     "texturedRectangle" : {
-                      "isBackgroundTexture" : false,
+                      "isBackgroundTexture" : true,
                       "singleTextureOpacity" : 1,
                       "textureType" : 5,
                       "textBaseline" : 0,
@@ -2507,10 +1254,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 110,
-                        "pointY" : 131.5
+                        "pointX" : 66.011971648342069,
+                        "pointY" : 66.493924947290338
                       },
-                      "width" : 220,
+                      "width" : 135,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2537,14 +1284,557 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 263,
+                      "height" : 136,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A1C25E96FDF72908C8DF08894AF3C0DB"
+                    "texture" : "7DB4EDEC4D7CFD01931675F3EEBD610E"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 512,
+                "pointY" : 384
+              },
+              "width" : 1024,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 768,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 721.03120665742006,
+                    "pointY" : 641.82617337759916
+                  },
+                  "width" : 247,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 185,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : true,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 5,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 121.96879334257994,
+                        "pointY" : 91.173826622400838
+                      },
+                      "width" : 247,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 185,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "7863FFABB9EA72E22A176A26BB5F6AD4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 512,
+                "pointY" : 384
+              },
+              "width" : 1024,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 768,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 935.91314235011328,
+                    "pointY" : 698.99741866155387
+                  },
+                  "width" : 136,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 136,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : true,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 5,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 66.086857649886724,
+                        "pointY" : 66.002581338446134
+                      },
+                      "width" : 136,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 136,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "E551DE491C435DAB3DC92E1D277722E7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 512,
+                "pointY" : 384
+              },
+              "width" : 1024,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 768,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 513.01339714900791,
+                    "pointY" : 641.6929947381941
+                  },
+                  "width" : 322,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 175,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : true,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 5,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 159.98660285099209,
+                        "pointY" : 86.307005261805898
+                      },
+                      "width" : 322,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 175,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "8BDD8BF299EE7DBF297B9743858F3125"
                   }
                 ]
               }
@@ -2731,7 +2021,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FC90C61D739B4C01EE8A52C9DCB8DC48"
+                    "texture" : "AF8478F99C54CAD15EC9AE5D4A27DF50"
                   }
                 ]
               }
