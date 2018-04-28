@@ -1,0 +1,47 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-16-28 10:4:3",
+  "loopSlideshow" : 0,
+  "filename" : "3.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "3.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "C29A2A79-6A10-4377-8DE3-E107FD981154",
+    "715700C1-389F-4C3F-AC2E-68933E161367",
+    "D16E3DAD-A19E-41D5-A391-9DBD334216BD",
+    "4EAE37CB-BE7E-4B0C-8D1E-AEFF59060E74",
+    "8232319C-225E-42A8-8AC7-7903E6795885",
+    "96AB8F73-8A76-4041-9377-83CE918D22D6",
+    "F42A9CAE-7B27-4554-BE93-42C9DAE7D7C8",
+    "6862876E-ACDD-43E8-8D29-014109432C9C",
+    "E6D9EC80-EB42-47B8-B6E1-154759A04D2E",
+    "8C491E47-44EB-43F6-93DC-8B09C33B879F",
+    "72BDF2D3-B9C2-443F-AE7F-6AAF77E0CB68",
+    "060B1DE3-DE04-4A33-A58E-8AEB01A47371"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 12,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "GillSans-Light",
+    "AndaleMono",
+    "Times-Roman",
+    "Zapfino",
+    "Helvetica-Bold",
+    "Didot",
+    "HiraKakuProN-W3",
+    "GillSans-SemiBold",
+    "GillSans-Bold",
+    "Didot-Bold"
+  ]
+}
